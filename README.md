@@ -30,6 +30,10 @@ Through SQL queries, we know that:
 * 508 are non coding RNA
 * 651 are pseudogenes 
 
+This means that 508-486 = 22 entries have been lost in dumping data to EBI
+
+
+<<<<<<< HEAD
 <<<<<<< HEAD
 ### Response by EBI
 
@@ -43,9 +47,6 @@ Alex
 Alex Bateman                                 
 Phone: (01223) 494100
 European Bioinformatics Institute (EMBL-EBI)
-=======
-This means that 508-486 = 22 entries have been lost in dumping data to EBI
->>>>>>> FETCH_HEAD
 
 
 
