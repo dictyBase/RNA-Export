@@ -29,6 +29,23 @@ Through SQL queries, we know that:
 * 508 are non coding RNA
 * 651 are pseudogenes 
 
+<<<<<<< HEAD
+### Response by EBI
+
+Hi Petra,
+
+This is all great news!  It sounds like you are ahead of the game :-)  We are planning our first release in the first half of this year and at that point official RNAcentral ids should be available.
+
+Bye for now
+Alex
+
+Alex Bateman                                 
+Phone: (01223) 494100
+European Bioinformatics Institute (EMBL-EBI)
+=======
+This means that 508-486 = 22 entries have been lost in dumping data to EBI
+>>>>>>> FETCH_HEAD
+
 
 
 
