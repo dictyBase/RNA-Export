@@ -19,10 +19,11 @@ Searching in the non-coding ENA domain "Dictyostelium discoideum", it retrieves 
 
 From these, 
 
-* 486 from "Dictyostelium discoideum AX4 r28"
-* 3,485 from "Dictyostelium discoideum"
+* 486 from "Dictyostelium discoideum AX4 r28" (these are probably our annotations)
+* 3,485 from "Dictyostelium discoideum" (we don't know where these come from exactly)
 
-The dictybase blast tool offer different databases as an option. One of them is D. discoideum Non-coding sequences DNA, which should contains all the non-coding RNA. This database contains 1159 sequences.
+The dictybase BLAST tool offers different optional databases to search against. 
+One of them is "D. discoideum Non-coding sequences DNA", which should contains all the non-coding RNA. This database contains 1159 sequences.
 
 Through SQL queries, we know that:
 
